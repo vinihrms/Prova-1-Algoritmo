@@ -13,5 +13,5 @@ Este repositório contém as respostas da **Primeira Prova de Algoritmo 2025** d
 
 ---
 **Disciplina:** Algoritmos  
-**Aluno:** Vinícius  
+**Aluno:** Vinícius  H.
 **Data:** 27/05
